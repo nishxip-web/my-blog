@@ -1,0 +1,147 @@
+{
+  "settings": {
+    "eyebrow": "written from the thick of it —",
+    "title": "Still<br><em>Becoming.</em>",
+    "subtitle": "Notes from a 25-year-old trying to make sense of ambition, grief, joy, failure, and everything in between. No filters. No narrative arc. Just life, written down.",
+    "stamp": "April 2026 · Ongoing",
+    "bgtext": "25",
+    "vollabel": "Vol. I &nbsp;·&nbsp; Est. 2024",
+    "name": "your name here",
+    "tagline": "25 y/o · still figuring it out",
+    "initials": "you",
+    "aboutHeading": "I write because <em>I can't not</em> write.",
+    "aboutBody": "<p>This isn't a personal brand. There's no niche, no content calendar, no monetisation strategy. <strong>This is just me, 25 years old</strong>, trying to make sense of the particular madness of being alive right now.</p>\n<p>I write about the weeks that don't make it into the highlight reel. The 2am spirals, the quiet breakthroughs, the conversations that rewired something in me. The philosophy I've stolen from books and bathroom floors. The failures I'm still learning to hold without shame.</p>\n<p><strong>I believe</strong> that the most honest writing is the kind that embarrasses you a little. That the struggle doesn't need to be resolved before it's worth sharing. That 25 is a strange, electric, disorienting age and someone should be documenting it properly.</p>\n<p>So here I am. Documenting it. Improperly, mostly. Welcome.</p>",
+    "aside": "started this because my notes app was getting embarrassing.",
+    "email": "hello@example.com",
+    "footerTagline": "Written honestly, published nervously.",
+    "byline": "A public journal, 2024–ongoing.",
+    "footerVol": "volume I",
+    "footerMeta": "no tracking · no ads"
+  },
+  "featured": {
+    "postId": "post-featured",
+    "pullQuote": "I used to think changing your mind was a weakness. Now I think it might be the only real sign of intelligence.",
+    "pullQuoteCite": "— from this entry",
+    "tags": "Growing Up, Philosophy, Ego, Learning, 25 things"
+  },
+  "ticker": [
+    "some days you win, some days you just survive",
+    "i've been thinking too much again",
+    "the philosophy of walking nowhere slowly",
+    "what nobody tells you about your mid-twenties",
+    "learning to sit with uncertainty",
+    "grief isn't linear and neither is growth"
+  ],
+  "categories": [
+    {
+      "id": "struggles",
+      "name": "Struggles",
+      "icon": "🔥",
+      "count": 14
+    },
+    {
+      "id": "wins",
+      "name": "Wins",
+      "icon": "🏆",
+      "count": 9
+    },
+    {
+      "id": "losses",
+      "name": "Losses",
+      "icon": "🌊",
+      "count": 11
+    },
+    {
+      "id": "philosophy",
+      "name": "Philosophy",
+      "icon": "🧠",
+      "count": 22
+    },
+    {
+      "id": "letters",
+      "name": "Letters",
+      "icon": "💌",
+      "count": 6
+    },
+    {
+      "id": "late-nights",
+      "name": "Late nights",
+      "icon": "🌙",
+      "count": 18
+    }
+  ],
+  "posts": [
+    {
+      "id": "post1",
+      "tag": "Philosophy",
+      "date": "2026-04-18",
+      "readTime": "9 min read",
+      "title": "I stopped planning my life and <em>nothing broke</em>",
+      "excerpt": "Three months ago I deleted every five-year plan I'd ever written. Here's what I found in the silence.",
+      "lede": "Three months ago I deleted every five-year plan I'd ever written. Here's what I found in the silence.",
+      "body": "<p>It started with a spreadsheet. I had one — God, did I have one. Colour-coded by quarter, cross-referenced with a Notion database, synced to a calendar with forty-seven recurring reminders. My life, architected in 15-minute blocks.</p>\n<p>I deleted it on a Tuesday. Not out of rebellion. Out of exhaustion. I just couldn't look at it anymore.</p>\n<h2>The first week</h2>\n<p>I expected anxiety. Instead I felt something closer to hunger — that specific emptiness when you've been full for so long you've forgotten what appetite feels like.</p>\n<blockquote>\"The plan had become the point. I wasn't living toward anything; I was managing the distance between me and my anxiety.\"</blockquote>\n<div class=\"post-handnote\">→ wrote this at 2am and it's the truest thing I've put down in months.</div>\n<p>What I found in the silence wasn't chaos. It was capacity. Actual mental real estate I hadn't had access to in years, because every square inch had been occupied by the maintenance of an imagined future.</p>\n<h2>What grew back</h2>\n<p>Curiosity, mostly. The low-grade kind that doesn't produce outcomes. Reading a book with no reason to read it. Taking a walk with no distance to hit. Calling a friend without an agenda.</p>\n<p>I'm not preaching anti-ambition. I still want things, badly. But I think I'd confused wanting things with managing the wanting — and somewhere in that confusion, I'd lost the actual wanting itself.</p>\n<p>The plan is gone. What replaced it doesn't have a name yet. But it feels, for the first time in a long time, like mine.</p>",
+      "order": 1,
+      "status": "published"
+    },
+    {
+      "id": "post2",
+      "tag": "Wins",
+      "date": "2026-04-10",
+      "readTime": "5 min read",
+      "title": "The <em>small</em> victory nobody clapped for",
+      "excerpt": "I sent the email I'd been drafting for eleven months. No reply yet. Still counts.",
+      "lede": "I sent the email I'd been drafting for eleven months. No reply yet. Still counts.",
+      "body": "<p>The email lived in my drafts folder for eleven months and twelve days. I know because I checked the timestamp before I finally sent it.</p>\n<p>It was four sentences. A cold reach-out to someone I admired, explaining who I was and what I was trying to do and asking, plainly, if they'd be willing to talk.</p>\n<h2>Why it took so long</h2>\n<p>Fear of looking foolish. Fear of being ignored. Fear that the version of me who sent that email was delusional — that the distance between where I was and where I was reaching was too embarrassing to put in writing.</p>\n<blockquote>\"I kept revising it. Adding qualifiers, removing them, softening the ask until it barely resembled an ask at all.\"</blockquote>\n<p>On a Wednesday morning, before I'd had coffee, I pressed send. Not because I'd conquered the fear. Because I was too tired to keep performing it.</p>\n<div class=\"post-handnote\">no reply yet. but I'm not the person who sat on that draft anymore, and that's worth something.</div>\n<p>Nobody clapped. There was no fanfare. My life looked exactly the same at 10:03am as it had at 9:58am. But I sat with a quiet, private satisfaction that I'm still carrying. Some wins are just for you. This one's mine.</p>",
+      "order": 2,
+      "status": "published"
+    },
+    {
+      "id": "post3",
+      "tag": "Losses",
+      "date": "2026-03-29",
+      "readTime": "12 min read",
+      "title": "On friendship that quietly <em>expires</em>",
+      "excerpt": "No fight. No falling-out. Just two people who stopped calling until one day there was nothing to call about.",
+      "lede": "No fight. No falling-out. Just two people who stopped calling until one day there was nothing to call about.",
+      "body": "<p>We didn't have an argument. There was no moment, no rupture, no thing that was said. We just stopped. Gradually at first, then completely.</p>\n<p>I've been trying to locate the exact point where the friendship ended and I can't. There's no pin I can put in it. That's what makes it strange — grief usually has a shape. This one dissolved.</p>\n<h2>The archaeology of a fading</h2>\n<p>I scrolled back through our messages once. The gaps between them grew and grew. Six days. Two weeks. A month. An unanswered meme. Then nothing.</p>\n<blockquote>\"People talk about growing apart like it's a passive thing that happens to you. But there are a thousand small choices inside it.\"</blockquote>\n<p>I made choices. So did they. Neither of us made them consciously, I think. But they accumulated.</p>\n<h2>What I miss</h2>\n<p>Not the big stuff, surprisingly. I miss the texture of it. The particular frequency we operated on. The shorthand that took years to build and is now just gone, unused, stored in my head with no receiver.</p>\n<div class=\"post-handnote\">i hope they're okay. i think they're okay. we're just different people now, going different places.</div>\n<p>I don't think this is anyone's fault. I think some friendships are seasonal, and mistaking them for perennial doesn't make them perennial. It just makes the ending lonelier than it needs to be.</p>",
+      "order": 3,
+      "status": "published"
+    },
+    {
+      "id": "post4",
+      "tag": "Struggles",
+      "date": "2026-03-14",
+      "readTime": "7 min read",
+      "title": "A week I would rather <em>forget</em> but won't",
+      "excerpt": "The rent was late. My confidence was lower. And I made the best soup of my life. Funny how that works.",
+      "lede": "The rent was late. My confidence was lower. And I made the best soup of my life. Funny how that works.",
+      "body": "<p>Monday: late on rent by four days. Not catastrophically late — the landlord is understanding — but the particular humiliation of it settled in my chest and stayed there.</p>\n<p>Tuesday: a rejection that I'd been half-expecting but still wasn't ready for. You're never ready, are you?</p>\n<h2>By Thursday</h2>\n<p>I was not okay. I was eating cereal at 3pm and watching the same forty minutes of a documentary I'd never finish and talking to no one and telling everyone I was fine.</p>\n<blockquote>\"There's a version of struggling that looks like crisis. Then there's this — the slow, undramatic kind. The kind that doesn't justify calling in help.\"</blockquote>\n<p>On Friday I made soup. Lentil, with smoked paprika and a lemon I had to dig to the back of the fridge to find. I don't know what possessed me. But I stood at the stove for forty minutes and it was the most present I'd been all week.</p>\n<div class=\"post-handnote\">the soup was genuinely extraordinary and I need that on the record.</div>\n<p>The week didn't resolve neatly. The rent got paid. The rejection still stings. But I keep coming back to the soup — not as metaphor, just as fact. Some weeks the only good thing is a small, physical, ordinary act of care. That has to be enough. It was.</p>",
+      "order": 4,
+      "status": "published"
+    },
+    {
+      "id": "post5",
+      "tag": "Philosophy",
+      "date": "2026-02-28",
+      "readTime": "15 min read",
+      "title": "Ambition is <em>exhausting</em> and I love it anyway",
+      "excerpt": "A long, rambling letter to the version of me that thought success would feel like arriving somewhere.",
+      "lede": "A long, rambling letter to the version of me that thought success would feel like arriving somewhere.",
+      "body": "<p>Dear 22-year-old me,</p>\n<p>You're going to get a lot of what you want. It's not going to feel the way you think it's going to feel. This letter isn't a warning — it's more of a translation guide.</p>\n<h2>On wanting things</h2>\n<p>Your ambition is real. It's also slightly broken, in the specific way that all early ambition is broken — it's aimed at proof rather than purpose. You want to prove something to someone, and you've cleverly disguised that as wanting to build something.</p>\n<blockquote>\"Ambition aimed at proof is exhausting because the proof is never sufficient. There will always be a higher bar to clear.\"</blockquote>\n<p>At 25 I still haven't fixed this entirely. But I've started to notice the difference between the wanting that feels like hunger and the wanting that feels like fear. The hunger is good. The fear is just dressed up hunger.</p>\n<h2>What I've learned</h2>\n<p>The work that matters to me now has a different quality than the work that was supposed to impress people. It's slower. Less legible from the outside. It doesn't make good content.</p>\n<div class=\"post-handnote\">i still want the big things. i just want them differently now.</div>\n<p>I love ambition. I love the engine of it, the reach of it, the way it makes ordinary days feel urgent. But I'm learning to point it at things that are actually mine — not at the approval of people who probably aren't thinking about me as much as I imagine.</p>\n<p>You'll figure this out. It'll take longer than you'd like.</p>\n<p>With love and mild exasperation,<br><em>you, later</em></p>",
+      "order": 5,
+      "status": "published"
+    },
+    {
+      "id": "post-featured",
+      "tag": "Philosophy",
+      "date": "2026-01-15",
+      "readTime": "18 min read",
+      "title": "The year I learned to be <em>wrong gracefully</em>",
+      "excerpt": "I was 24 and convinced I had most things figured out. Then a string of very ordinary events dismantled all of it.",
+      "lede": "I was 24 and convinced I had most things figured out. Then a string of very ordinary events dismantled all of it. This is about what grew back.",
+      "body": "<p>I want to start with honesty: I was insufferable at 24. Not maliciously. Just with the particular confidence of someone who had read enough to feel informed and lived too little to know what they didn't know.</p>\n<p>I had opinions on everything. They came quickly, landed firmly, and rarely updated. Being wrong wasn't something I'd made peace with. I experienced it as failure — evidence against myself.</p>\n<h2>The first crack</h2>\n<p>A conversation with someone I respected. I made a confident assertion. They asked a single question in response — not aggressively, just genuinely. I couldn't answer it. The assertion didn't survive the question.</p>\n<blockquote>\"I used to think changing your mind was a weakness. Now I think it might be the only real sign of intelligence.\"</blockquote>\n<p>I didn't change my position in that moment. I got defensive. But the question stayed with me, and slowly — over weeks — I started to understand that my certainty had been a performance. Something I was doing at people rather than with them.</p>\n<h2>The practice of being wrong</h2>\n<p>I started noticing when I was wrong and sitting with it instead of papering over it. It felt awful at first. There's a specific discomfort to letting a wrongness be acknowledged — even just internally — without immediately moving to fix it or explain it away.</p>\n<div class=\"post-handnote\">being wrong gracefully is actually a skill you have to build. it doesn't just happen.</div>\n<p>What grew back, once I stopped defending every position like territory, was something I can only describe as curiosity. Actual curiosity — not the performative kind where you ask questions to confirm what you already think, but the real kind where the answer might actually change you.</p>\n<h2>What I want to carry forward</h2>\n<p>I want to be the kind of person who updates. Who can say \"I was wrong about that\" without it costing them something enormous. Who finds it interesting rather than threatening when the world turns out to be more complicated than expected.</p>\n<p>I'm not there yet. But I'm much less attached to the version of me that needed to be right. That feels like progress. It might be the most important progress I made at 24.</p>",
+      "order": 6,
+      "status": "published"
+    }
+  ]
+}

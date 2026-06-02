@@ -72,18 +72,6 @@
   ],
   "posts": [
     {
-      "id": "post1",
-      "tag": "Philosophy",
-      "date": "2026-04-18",
-      "readTime": "9 min read",
-      "title": "I stopped planning my life and <em>nothing broke</em>",
-      "excerpt": "Three months ago I deleted every five-year plan I'd ever written. Here's what I found in the silence.",
-      "lede": "Three months ago I deleted every five-year plan I'd ever written. Here's what I found in the silence.",
-      "body": "<p>It started with a spreadsheet. I had one — God, did I have one. Colour-coded by quarter, cross-referenced with a Notion database, synced to a calendar with forty-seven recurring reminders. My life, architected in 15-minute blocks.</p>\n<p>I deleted it on a Tuesday. Not out of rebellion. Out of exhaustion. I just couldn't look at it anymore.</p>\n<h2>The first week</h2>\n<p>I expected anxiety. Instead I felt something closer to hunger — that specific emptiness when you've been full for so long you've forgotten what appetite feels like.</p>\n<blockquote>\"The plan had become the point. I wasn't living toward anything; I was managing the distance between me and my anxiety.\"</blockquote>\n<div class=\"post-handnote\">→ wrote this at 2am and it's the truest thing I've put down in months.</div>\n<p>What I found in the silence wasn't chaos. It was capacity. Actual mental real estate I hadn't had access to in years, because every square inch had been occupied by the maintenance of an imagined future.</p>\n<h2>What grew back</h2>\n<p>Curiosity, mostly. The low-grade kind that doesn't produce outcomes. Reading a book with no reason to read it. Taking a walk with no distance to hit. Calling a friend without an agenda.</p>\n<p>I'm not preaching anti-ambition. I still want things, badly. But I think I'd confused wanting things with managing the wanting — and somewhere in that confusion, I'd lost the actual wanting itself.</p>\n<p>The plan is gone. What replaced it doesn't have a name yet. But it feels, for the first time in a long time, like mine.</p>",
-      "order": 1,
-      "status": "published"
-    },
-    {
       "id": "post2",
       "tag": "Wins",
       "date": "2026-04-10",
